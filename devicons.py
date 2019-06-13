@@ -182,6 +182,18 @@ dir_node_exact_matches = {
     'Public'                           : '',
     'Templates'                        : '',
     'Videos'                           : '',
+# English abbreviatons + my own directories
+    '.git'                             : '',
+    'doc'                              : '',
+    'dl'                               : '',
+    'music'                            : '',
+    'pic'                              : '',
+    'templates'                        : '',
+    'vid'                              : '',
+    'repos'                            : '',
+    'work'                             : '',
+    'Uni'                              : '',
+    'textbook'                         : '',
 # Spanish
     'Escritorio'                       : '',
     'Documentos'                       : '',
