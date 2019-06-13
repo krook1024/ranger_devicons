@@ -194,6 +194,7 @@ dir_node_exact_matches = {
     'work'                             : '',
     'Uni'                              : '',
     'textbook'                         : '',
+    'vms'                              : '',
 # Spanish
     'Escritorio'                       : '',
     'Documentos'                       : '',
